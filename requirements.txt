@@ -24,3 +24,6 @@ urllib3==1.25.11
 whois==0.9.10
 xgboost==0.90
 lightgbm==3.2.1
+torch==1.7.0
+torchvision==0.8.1
+seaborn==0.10.0
