@@ -23,3 +23,4 @@ sqlparse==0.4.1
 urllib3==1.25.11
 whois==0.9.10
 xgboost==0.90
+lightgbm==3.2.1
