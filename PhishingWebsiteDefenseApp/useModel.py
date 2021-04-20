@@ -1,3 +1,12 @@
+'''
+How to use:
+Input: url str
+Output: predict (0: normal website; 1: phishing website)
+
+E.g:
+model = myModel()
+predict = model.pipeline(your url)
+'''
 import joblib
 from FeatureExtraction import getAttributess
 
